@@ -25,7 +25,7 @@ Moscow University of Science and Technology, Data Science Master Study Project
 - Popularity-based (подход, основанный на IMDB weighted average)
 -  Popularity-based (price/quality)
 -  Popularity-based (лучшая оценка от каждого эксперта)
--  Content-based ()
+-  Content-based (correliation matrix)
 -  Collaborative based Generalized Matrix Factorization (GMF)
 -  DeepFM подход (Factorization-Machine based neural network)
 
